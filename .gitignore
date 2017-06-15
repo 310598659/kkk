@@ -33,3 +33,13 @@ hs_err_pid*
         "isAtAll": false
     }
 }
+<category> 
+  <pattern>今天天气真好</pattern>  
+  <template> 
+    <random> 
+      <li>是呀，天气不错。</li>  
+      <li>要不出去走走？</li>  
+      <li>希望每天天气都这么好!</li> 
+    </random> 
+  </template> 
+</category>
